@@ -18,5 +18,5 @@
 ---
 
 <div align="center">
-© 2026 <a href="#" style="color: red;">Company Name</a>
+© 2026 <a href="#" style="color: red;">UBest</a>
 </div>
